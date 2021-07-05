@@ -13,7 +13,6 @@ Hackrank Algorithm "Problem Solving"  Solutions . All solutions are in C# Progra
 | Grading Students   | [Grading Students](https://github.com/siddharthadas1991/hackerrank_problemsolving_solutions/blob/main/WarmUp/Grading-Students.cs)  |
 | Mini-MaxSum     | [Mini-MaxSum](https://github.com/siddharthadas1991/hackerrank_problemsolving_solutions/blob/main/WarmUp/Mini-MaxSum.cs)  |
 | Plus Minus    | [Plus Minus](https://github.com/siddharthadas1991/hackerrank_problemsolving_solutions/blob/main/WarmUp/PlusMinus.cs)  |
-
 | Simple Array Sum  | [Simple Array Sum](https://github.com/siddharthadas1991/hackerrank_problemsolving_solutions/blob/main/WarmUp/SimpleArraySum.cs) |
 | Solve Me First   | [Solve Me First](https://github.com/siddharthadas1991/hackerrank_problemsolving_solutions/blob/main/WarmUp/SolveMeFirst.cs)  |
 | Mini-MaxSum     | [Mini-MaxSum](https://github.com/siddharthadas1991/hackerrank_problemsolving_solutions/blob/main/WarmUp/Mini-MaxSum.cs)  |
